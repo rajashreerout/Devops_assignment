@@ -1,0 +1,1 @@
+This is file1 in directory1 move to directory2 as renamed in file3.
